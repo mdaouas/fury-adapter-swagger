@@ -1,5 +1,12 @@
 # Fury Swagger Parser Changelog
 
+## Master
+
+### Bug Fixes
+
+- Example values in nested Schema Object will now be used for JSON body
+  generation.
+
 ## 0.21.1 (2018-09-10)
 
 ### Bug Fixes
